@@ -21,5 +21,6 @@ To run the app, navigate to ''main.dart'' and run without debugging. Choose any 
 Alternatively, run this in a new terminal (after the server is running)
 
 .. code-block:: console
+
    cd "unify_frontend"
    flutter run -d chrome
