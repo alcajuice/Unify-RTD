@@ -17,6 +17,7 @@ Contents
 
    usage
    login
+   joinsoc
    review
 
 Unify hosts its documentation on Read the Docs.
