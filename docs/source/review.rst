@@ -1,6 +1,8 @@
 Review
 =====
 
+.. _review:
+
 Create Review
 ---------------
 
