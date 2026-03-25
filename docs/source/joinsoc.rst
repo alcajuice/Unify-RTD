@@ -1,0 +1,9 @@
+Join Society
+=============
+
+Joining
+--------
+
+To join a society, you first have to be logged in. (refer to login page) After logging in, you can select a society using the "Find societies" button.
+This will show you a list of societies, where you can search and filter for your specific interests. To join, click on the society you want to join,
+and press the prompted button
