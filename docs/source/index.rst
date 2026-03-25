@@ -17,5 +17,6 @@ Contents
 
    usage
    login
+   review
 
 Unify hosts its documentation on Read the Docs.
