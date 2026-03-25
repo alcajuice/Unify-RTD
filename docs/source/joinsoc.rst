@@ -1,6 +1,8 @@
 Join Society
 =============
 
+.. _joinsoc:
+
 Joining a society
 -----------------
 
